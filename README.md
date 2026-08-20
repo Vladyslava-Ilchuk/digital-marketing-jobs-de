@@ -1,6 +1,6 @@
 # Digital Marketing Job Market in Germany
  
-A data analytics practicum project analyzing active Digital Marketing job postings in Germany, built end-to-end: data collection via a public REST API, cleaning and structuring in Python, and interactive visualization in Tableau.
+A data analytics internship project analyzing active Digital Marketing job postings in Germany, built end-to-end: data collection via a public REST API, cleaning and structuring in Python, and interactive visualization in Tableau.
  
 **[View the presentation](presentation/Digital_Marketing_Job_Market_DE.pptx)** · **[Dashboard screenshots](dashboards/screenshots)**
  
