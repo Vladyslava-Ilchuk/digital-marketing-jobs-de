@@ -36,7 +36,7 @@ Search API (10 keywords) → Detail API (per posting) → Clean & Deduplicate �
 | After exact-duplicate removal | 1,922 |
 | **Final analysis-ready dataset** | **1,899** |
  
-*16 postings removed as off-topic · 6 additional near-duplicate reposts removed*
+*16 postings removed as off-topic · 7 additional near-duplicate reposts removed*
  
 ## Dashboards
  
